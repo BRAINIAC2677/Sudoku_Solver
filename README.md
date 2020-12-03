@@ -2,7 +2,7 @@
 
 ### *Download Instructions:*
 * Download the *'Sudoku_Solver'* folder.
-* Open the *'Igraphics.cbp'* project in Codeblocks.
+* From *'Sudoku_Solver'* open the *'Igraphics.cbp'* project in Codeblocks.
 * Press *F9*.
 
 
